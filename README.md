@@ -28,12 +28,12 @@ od-agents/
 
 | Stap | Skill | Omschrijving |
 |------|-------|--------------|
-| Analyze | `analyze-hypothese` | Hypothese schrijven in Als-Dan-Omdat format |
+| Analyze (voor) | `analyze-before-hypothese` | Hypothese schrijven in Als-Dan-Omdat format |
 | Create | `create-figma-analyse` | Figma design analyseren voor A/B test |
 | Create | `create-ab-test-init` | Nieuw experiment volledig opzetten |
 | Create | `create-dom-inspect` | DOM inspecteren en selectors documenteren |
 | Create | `create-ab-test-development` | Variatiecode schrijven (JS, tracking, CSS) |
-| Analyze | `analyze-resultaten` | Testresultaten analyseren en concluderen |
+| Analyze (na) | `analyze-after-resultaten` | Testresultaten analyseren en concluderen |
 
 ## Updates
 
